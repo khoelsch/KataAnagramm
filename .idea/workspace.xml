@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d64e2da-be55-4d22-bc7e-b7aa37245756" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KataAnagram.iml" afterPath="$PROJECT_DIR$/KataAnagram.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java" afterPath="$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java" afterPath="$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java" />
     </list>
@@ -68,7 +65,7 @@
       <file leaf-file-name="AnagramFinderTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="30" selection-start="12" selection-end="13" vertical-scroll-proportion="0.0">
+            <state line="31" column="34" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,7 +74,7 @@
       <file leaf-file-name="AnagramFinder.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="32" selection-start="695" selection-end="695" vertical-scroll-proportion="0.31300345">
+            <state line="38" column="5" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.7238205">
               <folding />
             </state>
           </provider>
@@ -110,8 +107,8 @@
         <option value="$PROJECT_DIR$/src/test/java/foo/KataAnagramTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/foo/KataAnagram.java" />
         <option value="$PROJECT_DIR$/src/main/resources/simple-wordlist.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java" />
       </list>
     </option>
   </component>
@@ -421,7 +418,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2513369" sideWeight="0.66703784" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2513369" sideWeight="0.66703784" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33296213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -493,16 +490,30 @@
         <state line="2" column="25" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4085156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="13" selection-start="5260" selection-end="5260" vertical-scroll-proportion="0.33256617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="30" selection-start="12" selection-end="13" vertical-scroll-proportion="0.0">
+        <state line="31" column="34" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="32" selection-start="695" selection-end="695" vertical-scroll-proportion="0.31300345">
+        <state line="38" column="5" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.7238205">
           <folding />
         </state>
       </provider>

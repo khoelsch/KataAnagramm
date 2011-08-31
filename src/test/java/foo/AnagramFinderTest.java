@@ -27,4 +27,9 @@ public class AnagramFinderTest {
     final File wordlist = new File(RESOURCE_FOLDER + "simple-wordlist.txt");
     Assert.assertEquals(3, anaFinder.readWordsFromFile(wordlist).length);
   }
+
+    @Test
+    public void testSimpleListHashing {
+        Assert.assertArrayEquals();
+    }
 }
