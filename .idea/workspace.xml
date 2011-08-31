@@ -59,10 +59,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AnagramFinder.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AnagramFinder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="28" selection-start="267" selection-end="267" vertical-scroll-proportion="0.11666667">
+            <state line="8" column="34" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -71,7 +71,16 @@
       <file leaf-file-name="AnagramFinderTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="30" selection-start="27" selection-end="44" vertical-scroll-proportion="0.0">
+            <state line="24" column="10" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple-wordlist.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/simple-wordlist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="25" selection-start="11" selection-end="11" vertical-scroll-proportion="0.033333335">
               <folding />
             </state>
           </provider>
@@ -92,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/main/java/foo/KataAnagram.java" />
         <option value="$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java" />
         <option value="$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/simple-wordlist.txt" />
       </list>
     </option>
   </component>
@@ -167,10 +177,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -242,6 +248,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="foo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\khoelsch\workspaces\CodeKatas\Anagramm-Kata\src\main\resources" />
     </key>
   </component>
   <component name="RunManager">
@@ -431,16 +440,23 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="30" selection-start="27" selection-end="44" vertical-scroll-proportion="0.0">
+        <state line="8" column="34" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/foo/AnagramFinder.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/foo/AnagramFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="28" selection-start="267" selection-end="267" vertical-scroll-proportion="0.11666667">
+        <state line="24" column="10" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/simple-wordlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="11" selection-end="11" vertical-scroll-proportion="0.033333335">
           <folding />
         </state>
       </provider>
