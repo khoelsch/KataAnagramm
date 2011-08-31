@@ -1,27 +1,30 @@
 package foo;
 
-/**
- * Created by IntelliJ IDEA.
- * User: khoelsch
- * Date: 31.08.11
- * Time: 15:07
- * To change this template use File | Settings | File Templates.
- */
+import org.junit.After;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+
+import java.io.File;
+import java.io.IOException;
+
 public class AnagramFinderTest {
+  private static final String RESOURCE_FOLDER = "C:\\Users\\kai\\workspaces\\KataAnagram\\src\\main\\resources\\";
   private AnagramFinder anaFinder;
 
-  @org.junit.Before
+  @Before
   public void setUp() throws Exception {
     anaFinder = new AnagramFinder();
   }
 
-  @org.junit.After
+  @After
   public void tearDown() throws Exception {
     anaFinder = null;
   }
 
   @Test
-  public void testReadFromFile() {
-    Assert
+  public void testReadFromFile() throws IOException {
+    final File wordlist = new File(RESOURCE_FOLDER + "simple-wordlist.txt");
+    Assert.assertEquals(3, anaFinder.readWordsFromFile(wordlist).length);
   }
 }
